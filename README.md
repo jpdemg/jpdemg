@@ -15,11 +15,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Software Engineering**
-- 🍎 **Customer Experience** na **Apple** · São Paulo, Brasil
-- 🖌️ Apaixonado por design 
+- 🎓 **Software Engineering Student**
+- 🍎 Working at **Apple** in **Costumer Experience Area**
 - 🌱 Atualmente aprendendo **Python** e **JavaScript**
-- 💼 Disponível para freelas de design
 - 🔗 Portfólio completo no **[Behance](https://www.behance.net/joogomes14)**
 
 ---

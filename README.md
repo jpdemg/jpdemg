@@ -2,9 +2,7 @@
 
 # Olá, eu sou o João Pedro! 👋
 
-### 🎨 Designer & Estudante de Software Engineering
-
-*Onde criatividade encontra o código*
+### Estudante de Software Engineering
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/joogomes14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-de-matos-gomes-a9b900286)
@@ -18,8 +16,8 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Software Engineering**
-- 🎨 UX/UI Designer na **Cronos** · São Paulo, Brasil
-- 🖌️ Apaixonado por design — do conceito ao pixel final
+- 🍎 **Customer Experience** na **Apple** · São Paulo, Brasil
+- 🖌️ Apaixonado por design 
 - 🌱 Atualmente aprendendo **Python** e **JavaScript**
 - 💼 Disponível para freelas de design
 - 🔗 Portfólio completo no **[Behance](https://www.behance.net/joogomes14)**
@@ -28,20 +26,18 @@
 
 ## 🛠️ Ferramentas & Tecnologias
 
-### 🎨 Design — onde me sinto em casa
+### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-### 💻 Desenvolvimento — em evolução
+### 💻 Desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 🚀 Em destaque
-
-> 💡 *Acredito que bom design e bom código andam juntos — e estou construindo essa ponte.*
 
 Confira meus projetos visuais no Behance, incluindo trabalhos de identidade visual e UX/UI:
 
@@ -50,7 +46,5 @@ Confira meus projetos visuais no Behance, incluindo trabalhos de identidade visu
 ---
 
 <div align="center">
-
-*Feito com ☕ e muita criatividade em São Paulo, Brasil 🇧🇷*
 
 </div>
